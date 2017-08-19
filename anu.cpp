@@ -1,6 +1,8 @@
+
 #include<iostream.h>
 void main()
 {
-cout<<"my first program on git";
+
+cout<<"using git is fun ";
 }
 
